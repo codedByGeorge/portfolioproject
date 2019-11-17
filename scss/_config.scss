@@ -4,7 +4,7 @@ $main-color: #ffbc00;
 $light-color: #f3f3f3;
 $medium-color: #ccc;
 $dark-color: #333;
-$bg-img: url('/dist/img/showcase.jpg');
+$bg-img: url('../dist/img/showcase.jpg');
 
 // SET TEXT COLOR
 @function set-text-color($color) {
